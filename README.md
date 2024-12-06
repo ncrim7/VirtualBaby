@@ -43,7 +43,7 @@ Sanal bebeğin ihtiyaçlarını düzenleyen fonksiyonları çağırarak etkileş
 Ekrandaki talimatları izleyerek sanal bebeğin ihtiyaçlarını yönetin. Her bir fonksiyon, bebeğin durumunun belirli bir yönünü iyileştirmek veya kötüleştirmek için tasarlanmıştır.
 
 ## Proje Yapısı
-- `main.c`: Sanal bebeği yönetmek için gereken tüm fonksiyonları ve mantığı içeren ana kaynak kodu.
+- `virtual_baby.c`: Sanal bebeği yönetmek için gereken tüm fonksiyonları ve mantığı içeren ana kaynak kodu.
 - `README.md`: Proje dokümantasyonu.
 
 ## Örnek
