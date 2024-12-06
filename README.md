@@ -52,9 +52,6 @@ Ekrandaki talimatları izleyerek sanal bebeğin ihtiyaçlarını yönetin. Her b
 - Enerjiyi geri kazanmak için bebeği uyutmak.
 - Eğlence ve sevgi seviyesini artırmak için bebeği oyun oynamaya teşvik etmek.
 
-## Lisans
-Bu proje açık kaynaklıdır ve MIT Lisansı altında mevcuttur.
-
 ## Katkı Sağlama
 Katkılara açık! Bu depoyu fork'layabilir, değişikliklerinizi yapabilir ve bir pull request gönderebilirsiniz.
 
